@@ -13,7 +13,7 @@ fitting a polynomial", on DSPrelated.com.
 (this is a Chicago-like style):
 de Siqueira, Alexandre Fioravante. “Approximating the area of a chirp by
 fitting a polynomial”. DSPrelated. 2015, November 15. Available at
-.
+http://www.dsprelated.com/showarticle/863.php.
 Access date: <ACCESS DATE>.
 
 Copyright (C) Alexandre Fioravante de Siqueira
