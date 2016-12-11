@@ -1,8 +1,6 @@
 # Programando Ciência
-Repositório para os arquivos do site Programando Ciência.
+
+Repositório para os arquivos do _Programando Ciência_.
 Visite!
 
-Repository for files of Programando Ciência website.
-Check it out!
-
-www.programandociencia.com
+http://www.programandociencia.com
